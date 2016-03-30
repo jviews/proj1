@@ -1,6 +1,6 @@
 package proj1;
 
-public class Main1 {
+public class Main1 {//jj
 
 	public static void main(String[] args)
 	{
