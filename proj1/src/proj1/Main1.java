@@ -11,6 +11,8 @@ public class Main1 {//jj
 
 		// mod 4
 		
+		// mod5
+		
 		System.out.println("COWS RULE!.");
 
 	}
